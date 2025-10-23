@@ -9,18 +9,34 @@ def main(page: ft.Page):
     {
         "titulo": "Charles Babbage",
         "descripcion": "Conocido como el padre de la computadora...",
-        "video": "https://drive.google.com/uc?export=download&id=11quy5gjxoZLasWd2SvL-PSynA4JWY209"
+        "video": "src/assets/CHARLES.mp4"
     },
     {
         "titulo": "Ada Lovelace",
         "descripcion": "Ada Lovelace fue reconocida como la primera programadora.",
-        "video": "https://drive.google.com/uc?export=download&id=1evn_myd6_yyNuXtXHt5r6eqJ4H2QjgU6"
+        "video": "src/assets/ADA.mp4"
     },
     {
         "titulo": "Blaise Pascal",
         "descripcion": "Blaise Pascal fue matemático, físico y filósofo francés...",
-        "video": "https://drive.google.com/uc?export=download&id=1_fHCHd_vKIYKlZvf0XVChWRyD1i-HoRG"
+        "video": "src/assets/PASCAL.mp4"
+    },
+    {
+        "titulo": "Alan Turing",
+        "descripcion": "Alan Mathison Turing fue un matemático, criptógrafo.​​​​ Es considerado como uno de los padres de la ciencia de la computación y precursor de la informática moderna.",
+        "video": "src/assets/TURING.mp4"
+    },
+    {
+        "titulo": "John Von",
+        "descripcion": "John von Neumann fue un matemático y polimata húngaro-estadounidense que realizó contribuciones fundamentales en computación",
+        "video": "src/assets/JOHN.mp4"
+    },
+    {
+        "titulo": "Konrad Zuse",
+        "descripcion": "Konrad Zuse fue un ingeniero alemán y un pionero de la computación. Su logro más destacado fue terminar la primera computadora controlada por programas que funcionaban, la Z3 en 1941.​",
+        "video": "src/assets/KONRAD.mp4"
     }
+
 ]
 
     indice_actual = [0]
